@@ -1,7 +1,7 @@
 # GoFPDF document generator
 
 [![MIT
-licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/saparicio/gofpdf/master/LICENSE)
+licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/SergioPro123/gofpdf/master/LICENSE)
 [![Report](https://goreportcard.com/badge/github.com/SergioPro123/gofpdf)](https://goreportcard.com/report/github.com/SergioPro123/gofpdf)
 [![GoDoc](https://img.shields.io/badge/godoc-GoFPDF-blue.svg)](https://godoc.org/github.com/SergioPro123/gofpdf)
 

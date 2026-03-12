@@ -11,6 +11,6 @@ require (
 )
 
 replace (
-	github.com/saparicio/gofpdi => github.com/SergioPro123/gofpdi v1.4.5
+	github.com/SergioPro123/gofpdi => github.com/SergioPro123/gofpdi v1.4.5
 	gofpdf => ./
 )
