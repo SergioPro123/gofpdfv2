@@ -1,4 +1,4 @@
-package gofpdf
+package gofpdfv2
 
 import (
 	"math"

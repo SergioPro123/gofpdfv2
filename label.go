@@ -1,4 +1,4 @@
-package gofpdf
+package gofpdfv2
 
 // Adapted from Nice Numbers for Graph Labels by Paul Heckbert from "Graphics
 // Gems", Academic Press, 1990

@@ -1,4 +1,4 @@
-package gofpdf
+package gofpdfv2
 
 // Adapted from http://www.fpdf.org/en/script/script61.php by Wirus and released with the FPDF license.
 

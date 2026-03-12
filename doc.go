@@ -255,4 +255,4 @@ times, and for file attachments and annotations.
 
 -   Improve test coverage as reported by the coverage tool.
 */
-package gofpdf
+package gofpdfv2

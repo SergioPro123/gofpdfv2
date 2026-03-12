@@ -14,7 +14,7 @@
 
 // Adapted from http://www.fpdf.org/en/script/script89.php by Olivier PLATHEY
 
-package gofpdf
+package gofpdfv2
 
 import (
 	"fmt"
