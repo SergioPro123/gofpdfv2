@@ -1,4 +1,4 @@
-module github.com/saparicio/gofpdf
+module github.com/SergioPro123/gofpdf
 
 go 1.12
 

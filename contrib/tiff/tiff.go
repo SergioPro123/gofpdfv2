@@ -26,7 +26,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/saparicio/gofpdf"
+	"github.com/SergioPro123/gofpdf"
 	"golang.org/x/image/tiff"
 )
 

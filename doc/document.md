@@ -47,13 +47,13 @@ encodings for languages that have fewer than 256 glyphs.
 To install the package on your system, run
 
 ```shell
-go get github.com/saparicio/gofpdf
+go get github.com/SergioPro123/gofpdf
 ```
 
 Later, to receive updates, run
 
 ```shell
-go get -u -v github.com/saparicio/gofpdf/...
+go get -u -v github.com/SergioPro123/gofpdf/...
 ```
 
 ## Quick Start
@@ -243,28 +243,28 @@ for file attachments and annotations.
 [badge-github]: https://img.shields.io/badge/project-Git_Hub-blue.svg
 [badge-mit]: https://img.shields.io/badge/license-MIT-blue.svg
 [badge-no-maintain]: http://unmaintained.tech/badge.svg
-[badge-report]: https://goreportcard.com/badge/github.com/saparicio/gofpdf
+[badge-report]: https://goreportcard.com/badge/github.com/SergioPro123/gofpdf
 [badge-status]: https://travis-ci.org/saparicio/gofpdf.svg?branch=master
 [coverage]: https://blog.golang.org/cover
 [dfont]: http://dejavu-fonts.org/
 [draw2d-site]: https://github.com/llgcode/draw2d
 [effective-go]: https://golang.org/doc/effective_go.html 
 [fpdf-site]: http://www.fpdf.org/
-[fpdf-test]: https://github.com/saparicio/gofpdf/blob/master/fpdf_test.go
+[fpdf-test]: https://github.com/SergioPro123/gofpdf/blob/master/fpdf_test.go
 [gfont]: https://fonts.google.com/
-[github]: https://github.com/saparicio/gofpdf
-[godoc]: https://godoc.org/github.com/saparicio/gofpdf
+[github]: https://github.com/SergioPro123/gofpdf
+[godoc]: https://godoc.org/github.com/SergioPro123/gofpdf
 [gofpdf-fork]: https://techgaun.github.io/active-forks/index.html#saparicio/gofpdf
-[issue109]: https://github.com/saparicio/gofpdf/issues/109
+[issue109]: https://github.com/SergioPro123/gofpdf/issues/109
 [jung]: https://github.com/saparicio/
-[last-commit]: https://github.com/saparicio/gofpdf/commit/603f56990463f011cb1dbb64ef7f872c1adc009a
+[last-commit]: https://github.com/SergioPro123/gofpdf/commit/603f56990463f011cb1dbb64ef7f872c1adc009a
 [license]: https://raw.githubusercontent.com/saparicio/gofpdf/master/LICENSE
 [lint]: https://github.com/golang/lint
-[logo]: https://github.com/saparicio/gofpdf/raw/master/image/logo_gofpdf.jpg?raw=true
+[logo]: https://github.com/SergioPro123/gofpdf/raw/master/image/logo_gofpdf.jpg?raw=true
 [noto]: https://github.com/jsntn/webfonts/blob/master/NotoSansSC-Regular.ttf
 [pr]: https://help.github.com/articles/using-pull-requests/
-[report]: https://goreportcard.com/report/github.com/saparicio/gofpdf
+[report]: https://goreportcard.com/report/github.com/SergioPro123/gofpdf
 [status]: https://travis-ci.org/saparicio/gofpdf
-[test]: https://github.com/saparicio/gofpdf/blob/master/fpdf_test.go
+[test]: https://github.com/SergioPro123/gofpdf/blob/master/fpdf_test.go
 [unmaintained]: http://unmaintained.tech/
 [vet]: https://golang.org/cmd/vet/
