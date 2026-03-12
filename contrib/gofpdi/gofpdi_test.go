@@ -2,8 +2,8 @@ package gofpdi
 
 import (
 	"bytes"
-	"github.com/phpdave11/gofpdf"
-	"github.com/phpdave11/gofpdf/internal/example"
+	"github.com/saparicio/gofpdf"
+	"github.com/saparicio/gofpdf/internal/example"
 	"io"
 	"sync"
 	"testing"

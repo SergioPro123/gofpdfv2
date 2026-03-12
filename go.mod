@@ -1,4 +1,4 @@
-module github.com/phpdave11/gofpdf
+module github.com/saparicio/gofpdf
 
 go 1.12
 
@@ -11,6 +11,6 @@ require (
 )
 
 replace (
-	github.com/phpdave11/gofpdi => github.com/SergioPro123/gofpdi v1.4.5
+	github.com/saparicio/gofpdi => github.com/SergioPro123/gofpdi v1.4.5
 	gofpdf => ./
 )
